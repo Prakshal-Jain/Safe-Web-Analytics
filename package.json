@@ -1,0 +1,44 @@
+{
+  "name": "web-analytics",
+  "version": "1.0.0",
+  "description": "The safest web-analytics tool that ever existed.",
+  "main": "webAnalytics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakshal-Jain/Safe-Web-Analytics.git"
+  },
+  "keywords": [
+    "web-analytics",
+    "web",
+    "analytics",
+    "google-analytics",
+    "amazon-analytics",
+    "developer",
+    "record",
+    "screen",
+    "record",
+    "screen",
+    "web",
+    "analytics",
+    "screenshot",
+    "screen",
+    "recording",
+    "screen-recording",
+    "screen-record",
+    "recording",
+    "picture",
+    "image"
+  ],
+  "author": "Prakshal Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakshal-Jain/Safe-Web-Analytics/issues"
+  },
+  "homepage": "https://github.com/Prakshal-Jain/Safe-Web-Analytics#readme",
+  "dependencies": {
+    "npmrc": "^1.1.1"
+  }
+}

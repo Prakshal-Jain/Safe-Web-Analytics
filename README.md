@@ -25,7 +25,7 @@ It took me only 1.25 hours to make the whole thing, and it works! So, I am prett
 
 <hr/>
 
-<h2>How to use it?</h2>
+<h2 id="instructions">How to use it?</h2>
 <p>Just put the following code in your HTML file, and see the magic:</p>
 
 <code>
